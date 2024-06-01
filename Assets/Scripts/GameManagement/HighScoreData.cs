@@ -1,6 +1,3 @@
-/*
-Saves the top 3 scores
-*/
 public class HighScoreData
 {
     public string[] names;
